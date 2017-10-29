@@ -1,6 +1,7 @@
 # MoneyCounter
 
-[![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/7D6U26JG_b4)
+[![Product Name](https://www.fastpic.jp/viewer.php?file=0954296791.jpg)]
+(https://youtu.be/7D6U26JG_b4)
 
 ## 製品概要
 ### recognition X Tech（X → 今回皆さんが選定した好きな言葉に書き換えてください）
